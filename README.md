@@ -75,6 +75,12 @@ primary measurement for them that we were willing to cite. No traffic or
 leaderboard statistics: the site stores results in the visitor's browser, so
 there is no server-side dataset to aggregate.
 
+## Citing
+
+`CITATION.cff` is included, so GitHub offers a "Cite this repository" button.
+Please still cite the underlying papers when the number matters — this
+repository is the convenience layer (CSV + percentile code), not the source.
+
 ## Licence
 
 Code (`percentile.py`, `percentile.js`): MIT. The figures themselves belong to
