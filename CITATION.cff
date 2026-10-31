@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "The figures belong to the cited papers. Cite those when the number matters; cite this repository only for the CSV curve or the percentile code."
+title: "Typing speed benchmarks with sources"
+abstract: >-
+  Typing-speed figures with primary sources: mean 51.56 WPM on a desktop keyboard
+  (Dhakal et al., CHI 2018, n=168,960), 36.17 WPM on a phone (Palin et al.,
+  MobileHCI 2019, n=37,370), a derived percentile curve, unit conversions and
+  advertised job bands.
+authors:
+  - name: "Typing.Rerivo"
+    website: "https://typing.rerivo.com/typing-speed-benchmarks.html"
+repository-code: "https://github.com/hello532/typing-speed-benchmarks"
+url: "https://typing.rerivo.com/typing-speed-benchmarks.html"
+license: MIT
+keywords:
+  - typing speed
+  - words per minute
+  - benchmark
+  - percentile
+preferred-citation:
+  type: dataset
+  title: "Typing speed benchmarks: percentile curve and unit conversions"
+  authors:
+    - name: "Typing.Rerivo"
+  year: 2026
+  url: "https://typing.rerivo.com/typing-speed-benchmarks.html"
